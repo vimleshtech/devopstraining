@@ -1,5 +1,7 @@
+
 n =1 #int
 n ='aaa' #str
+a =11
 n =True # bool
 n = [1112,222] #array / list
 
